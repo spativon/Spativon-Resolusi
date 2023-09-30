@@ -3,3 +3,4 @@ HalloResolusi 2023
 - Mengerjakan Projek 2
 - Membuat User Guide Projek 1
 - Membuat User Guide Projek 2
+- dll
